@@ -1,5 +1,15 @@
 # markdown-syntax
-Syntax of markdown writing 
+## Syntax of markdown writing 
+
+Markdown works in any browser even if you use a simple notepad. But there are certain tools that can help enhance your productivity by providing a real time view (of markdown and rich text) side by side.
+
+The following are some of the tools that support working with markdown:
+
+VSCode, 
+Atom, 
+Haroopad, 
+Sublime text, and 
+MarkPad.  Syntax of markdown language are as follows 
 
 <!-- Headings -->
 # This is heading 1
