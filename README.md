@@ -53,7 +53,7 @@ ___
 ## Images
 <!--Images-->
 
-![An image](hollo.jpg)
+![An image](image.png)
 
 
 <!-- github md-->
