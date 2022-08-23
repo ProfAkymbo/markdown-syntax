@@ -1,12 +1,12 @@
 # markdown-syntax
 Syntax of markdown writing 
 
-
-# heading 1
-## heading 2
-### heading 3
-### heading 4
-#### heading 5
+<!-- Headings -->
+# This is heading 1
+## This is heading 2
+### This is heading 3
+### This is heading 4
+#### This is heading 5
 
 <!-- Italics -->
 *this text is italics*
