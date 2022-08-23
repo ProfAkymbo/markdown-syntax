@@ -53,7 +53,7 @@ ___
 ## Images
 <!--Images-->
 
-![Hollow Knight](hollo.jpg)
+![An image](hollo.jpg)
 
 
 <!-- github md-->
